@@ -162,8 +162,8 @@ _Box plot visualizing the salary distributioms for the top 6 data job titles_
 
 ### Insights
 
-- Data Analysts earn the lowest among the listed roles, with salaries typically ranging between £40K–£90K and a median around £60K–£70K.
-- Senior Data Analysts see a noticeable salary increase, with a median around £90K–£110K and potential earnings up to £150K, though this still lags behind Data Scientists and Engineers.
+- Data Analysts earn the lowest among the listed roles, with salaries typically ranging between £40K:£90K and a median around £60K:£70K.
+- Senior Data Analysts see a noticeable salary increase, with a median around £90K:£110K and potential earnings up to £150K, though this still lags behind Data Scientists and Engineers.
 - Data Scientists and Data Engineers consistently command higher salaries, highlighting that advanced technical skills (e.g., machine learning, big data, cloud computing) are more highly rewarded.
 - Outliers exist for Senior Data Analysts, with some reaching salaries above £120K, but these cases are less common compared to other senior data roles.
 
@@ -255,23 +255,23 @@ _A scatter plot visualizing the most optimal skills(high paying & high demand ) 
 
 ## Insights
 
-- SQL – Highest demand (~45% of jobs) with strong salary (~$120K).
+- SQL:Highest demand (~45% of jobs) with strong salary (~$120K).
 
-- Python – Widely in demand (~35% of jobs) and high-paying (~$95K).
+- Python: Widely in demand (~35% of jobs) and high-paying (~$95K).
 
-- Excel – Very high demand (~40% of jobs), though salary is moderate (~$70K).
+- Excel : Very high demand (~40% of jobs), though salary is moderate (~$70K).
 
-- Tableau – Mid-demand (~20%) but high salary (~$105K).
+- Tableau : Mid-demand (~20%) but high salary (~$105K).
 
-- Power BI – Decent demand (~12%) with solid salary (~$90K).
+- Power BI : Decent demand (~12%) with solid salary (~$90K).
 
-- Azure – Cloud skill with rising demand (~10%) and good salary (~$92K).
+- Azure : Cloud skill with rising demand (~10%) and good salary (~$92K).
 
-- Looker – Lower demand (~10%) but strong salary (~$95K).
+- Looker : Lower demand (~10%) but strong salary (~$95K).
 
-- SQL Server – Niche but very high salary (~$130K).
+- SQL Server : Niche but very high salary (~$130K).
 
-- Flow – Rare skill but strong salary (~$115K).
+- Flow : Rare skill but strong salary (~$115K).
 
 _- Best balance for career growth: SQL, Python, Tableau, Power BI, and Azure (they combine high demand with strong salary)._
 
