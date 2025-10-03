@@ -65,7 +65,7 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 To find the most demanded skills for the top 3 most popular data roles, I filtered out those positions by which one were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the mopst poluar job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting
 
 View my notebook with detailed steps here:
-[3_Skills_Demand.ipynb](3_Project\3_Skills_Demand.ipynb)
+[3_Skills_Demand.ipynb](3_Project/3_Skills_Demand.ipynb)
 
 ### Visualize Data
 
@@ -96,7 +96,7 @@ for i, job_title in enumerate(job_titles):
 
 ### Results
 
-![Visualization of Top Skills for Data Savvy](3_Project\images\job_skills_demands_for_data_roles.png)
+![Visualization of Top Skills for Data Savvy](3_Project/images/job_skills_demands_for_data_roles.png)
 
 ### Insights
 
@@ -121,7 +121,7 @@ plt.show()
 
 ## Result
 
-![Trending Top Skills for Data Analysts in the UK](3_Project\images\Trnding_skills_demand.png)
+![Trending Top Skills for Data Analysts in the UK](3_Project/images/Trnding_skills_demand.png)
 _Bar graph visualizing the trending top skills for data analysts in the UK in 2023._
 
 ## Insights:
@@ -156,7 +156,7 @@ plt.show()
 
 ### Results
 
-![Salary Distributions of Data Jobs in the UK](3_Project\images\pay.png)
+![Salary Distributions of Data Jobs in the UK](3_Project/images/pay.png)
 
 _Box plot visualizing the salary distributioms for the top 6 data job titles_
 
@@ -204,7 +204,7 @@ plt.show()
 
 In-demand skills for data analysts in the UK:
 
-![Highest Paid and Most In demand Skills for Data Analyst in the UK.png](3_Project\images\compare.png)
+![Highest Paid and Most In demand Skills for Data Analyst in the UK.png](3_Project/images/compare.png)
 
 _Two seperate bar graphs visualizing the highest paid skills and most in-demand skills for data analyst in the UK_
 
@@ -250,7 +250,7 @@ plt.show()
 
 ## Result
 
-![Most Optimal Skills for Data Analysts in the UK](3_Project\images\scatterplot.png)
+![Most Optimal Skills for Data Analysts in the UK](3_Project/images/scatterplot.png)
 _A scatter plot visualizing the most optimal skills(high paying & high demand ) for data analysts in the UK_
 
 ## Insights
