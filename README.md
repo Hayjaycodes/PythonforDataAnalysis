@@ -255,23 +255,23 @@ _A scatter plot visualizing the most optimal skills(high paying & high demand ) 
 
 ## Insights
 
-- SQL:Highest demand (~45% of jobs) with strong salary (~$120K).
+- SQL:Highest demand (45% of jobs) with strong salary ($120K).
 
-- Python: Widely in demand (~35% of jobs) and high-paying (~$95K).
+- Python: Widely in demand (35% of jobs) and high-paying ($95K).
 
-- Excel : Very high demand (~40% of jobs), though salary is moderate (~$70K).
+- Excel : Very high demand (40% of jobs), though salary is moderate ($70K).
 
-- Tableau : Mid-demand (~20%) but high salary (~$105K).
+- Tableau : Mid-demand (20%) but high salary ($105K).
 
-- Power BI : Decent demand (~12%) with solid salary (~$90K).
+- Power BI : Decent demand (12%) with solid salary ($90K).
 
-- Azure : Cloud skill with rising demand (~10%) and good salary (~$92K).
+- Azure : Cloud skill with rising demand (10%) and good salary ($92K).
 
-- Looker : Lower demand (~10%) but strong salary (~$95K).
+- Looker : Lower demand (10%) but strong salary ($95K).
 
-- SQL Server : Niche but very high salary (~$130K).
+- SQL Server : Niche but very high salary ($130K).
 
-- Flow : Rare skill but strong salary (~$115K).
+- Flow : Rare skill but strong salary ($115K).
 
 _- Best balance for career growth: SQL, Python, Tableau, Power BI, and Azure (they combine high demand with strong salary)._
 
